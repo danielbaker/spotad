@@ -38,7 +38,7 @@
 
 
 
-function ExampleDefault(settings) {
+function ExternalTemplate(settings) {
     var settings = templateSettings,
         gradientPrefix = getCssValuePrefix('backgroundImage', 'linear-gradient(left, #fff, #fff)'),
         basePath = spotgamesUtils.getScriptPath(),
